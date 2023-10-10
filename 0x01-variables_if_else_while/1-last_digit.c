@@ -7,7 +7,7 @@
  * Description: print the value of n status:
  *		great than, is zero and is not less than 6.
  *
- * Return; 0 (success)
+ * Return: 0 (success)
 */
 int main(void)
 {
