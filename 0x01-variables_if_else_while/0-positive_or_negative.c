@@ -1,12 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - entry point
  *
  * Description : false or true validation
  *
- * Return : 0 (seccuss)
+ * Return: 0 (seccuss)
 */
 
 int main(void)
